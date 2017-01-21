@@ -1,0 +1,8 @@
+name: MoreSlotsHostServer
+main: NintendoCore\Main
+version: 1.0BETA
+author: NintendoCore
+api:
+- 1.0.0
+- 1.1.0
+- 2.0.0
